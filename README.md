@@ -1,5 +1,5 @@
 
 
-[Array](array.md)
+# [Array](array.md)
 
-[linkedlist.md](Linked List)
+# [Linked List](linkedlist.md)
