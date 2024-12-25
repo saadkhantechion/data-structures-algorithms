@@ -1,1 +1,4 @@
-# data-strucutures-algorithms
+
+
+[Array](array.md)
+[linkedlist.md](Linked List)
